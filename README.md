@@ -15,7 +15,7 @@ Surge en Enero del año 2017 por tres mamás que son amigas, Gina, Guillermina y
 •	Eliminar ese proceso de compra manual, es decir con muchos pasos a seguir.
 
 ## Benchmark
-Link a las tiendas para realizar benchmark.
+Link a las tiendas existentes con temáticas similares.
 
 **El sótano de los niños** 
 [Talleres](https://www.elsotano.com/eventos.php)
@@ -27,4 +27,18 @@ Link a las tiendas para realizar benchmark.
 **Macaria & Jacinta**
 [Web](http://www.macariayjacinta.mx/)
 
+## User Personas
+![User Laura](img/lau.png)
+![User Laura](img/cristina.png)
 
+## Customer journey map
+
+![Proceso Offline](img/offline.png)
+![Proceso Online](img/online.png)
+
+
+
+
+## Anexos
+
+[Audio, fotografías y transcripción de entrevistas](https://drive.google.com/drive/u/0/folders/1rsDWmlKbuUd0wZUUV8EEI8Cyw4Xqtn8p)
