@@ -39,6 +39,7 @@ Link a las tiendas existentes con temáticas similares.
 
 ## User Personas
 ![User Laura](img/lau.png)
+![User Laura](img/cristina.png)
 
 **El sótano de los niños** 
 [Talleres](https://www.elsotano.com/eventos.php)
