@@ -12,26 +12,26 @@ que han puesto a la venta dentro de Rocket Kids, creaciones nacidas de las neces
 sus propios hijos, diseñadas por y para ellos. 
 
 ## Objetivos de Rocket Kids
-•	Fomentar y difundir la lectura en los niños.
-•	Apoyar y fomentar el consumo de productos para niños hechos en México. 
-•	Apoyar a marcas que ayudan a la preservación de la fauna mexicana.  
-•	Disminuir el impacto ecológico en el consumo de productos para niños, al fomentar 
+* Fomentar y difundir la lectura en los niños.
+* Apoyar y fomentar el consumo de productos para niños hechos en México. 
+* Apoyar a marcas que ayudan a la preservación de la fauna mexicana.  
+* Disminuir el impacto ecológico en el consumo de productos para niños, al fomentar 
     la reducción de consumo de plástico, y el uso de madera reciclada en la elaboración
     de sus productos. 
-•	Brindar un espacio en donde los niños pueden desenvolverse como pequeños clientes.
-•	Fomentar el consumo de productos realizados de manera artesanal.
-•	Ofrecer un espacio donde la experiencia positiva de los niños sea prioritaria.
+* Brindar un espacio en donde los niños pueden desenvolverse como pequeños clientes.
+* Fomentar el consumo de productos realizados de manera artesanal.
+* Ofrecer un espacio donde la experiencia positiva de los niños sea prioritaria.
 
 ## Objetivos del e-commerce de Rocket Kids
-•   Brindar un espacio donde los usuarios puedan encontrar los productos que buscan 
+* Brindar un espacio donde los usuarios puedan encontrar los productos que buscan 
     de manera sencilla.
-•	Llegar a más clientes interesados en los productos que ofrecen.
-•	Brindar una experiencia personalizada de acuerdo a sus necesidades.
-•	Desean ampliar la manera en la que hacen negocios, llegando a más lugares y más personas
+* Llegar a más clientes interesados en los productos que ofrecen.
+* Brindar una experiencia personalizada de acuerdo a sus necesidades.
+* Desean ampliar la manera en la que hacen negocios, llegando a más lugares y más personas
     que por razones diversas no pueden acudir a la tienda física.
-•	Llevar la experiencia Rocket Kids a más niños, fomentando la lectura.
-•	Pasar de un proceso manual de venta por internet, a un proceso automatizado. 
-•	Brindar una experiencia de compra en línea que haga sentir seguros a sus clientes, 
+* Llevar la experiencia Rocket Kids a más niños, fomentando la lectura.
+* Pasar de un proceso manual de venta por internet, a un proceso automatizado. 
+* Brindar una experiencia de compra en línea que haga sentir seguros a sus clientes, 
     la cual culmine en una compra exitosa.
 
 ## Benchmark
