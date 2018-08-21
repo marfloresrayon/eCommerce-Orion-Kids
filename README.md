@@ -8,7 +8,7 @@ Surge en Enero del año 2017 por tres mamás que son amigas, Gina, Guillermina y
 •	Ofrecer un espacio de inclusión para los niños, a través de actividades.
 
 ## Objetivos de e-commerce
-•	Brindar un espacio en donde los niños pueden desenvolverse como pequeños clientes.
+•   Brindar un espacio en donde los niños pueden desenvolverse como pequeños clientes.
 •	Llegar a más clientes.
 •	No perder clientes.
 •	Tener un proceso de compra en línea más claro.
