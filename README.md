@@ -37,6 +37,9 @@ sus propios hijos, diseñadas por y para ellos.
 ## Benchmark
 Link a las tiendas existentes con temáticas similares.
 
+## User Personas
+![User Laura](img/lau.png)
+
 **El sótano de los niños** 
 [Talleres](https://www.elsotano.com/eventos.php)
 [Tienda en linea](https://www.elsotano.com/ninos.php?page=1)
