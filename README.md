@@ -180,10 +180,10 @@ interesada, así como la marca que los elabora (en caso de ser artesanales o ten
 beneficios que presenta y las recomendaciones generales de otras clientas que han adquirido los productos. 
 
 ## User Flow
-![User Flow](imgRead/uflow/uflow.png)
+![image](https://user-images.githubusercontent.com/39386083/49199008-81335a80-f35b-11e8-8e69-d7a133b4e85d.png)
 
 ## Flow Chart
-![Flow Chart](imgRead/flow/flow.png)
+![image](https://user-images.githubusercontent.com/39386083/49198989-69f46d00-f35b-11e8-9326-10c74a4ab505.png)
 
 Con el flujo elaborado, proponemos una experiencia intuitiva a lo largo del proceso de compra, donde acompañemos 
 a la usuaria desde su ingreso al sitio, presentando la misión y visión de Orion Kids, hasta la actualización 
@@ -241,9 +241,7 @@ La paleta de colores elegida, así como las tipografías usadas están inspirada
 que Orion Kids tiene dentro de sus redes sociales y su tienda física, el universo es un tema recurrente dentro de los 
 gráficos que utiliza. 
 
-[Prototipo de alta fidelidad](https://marvelapp.com/3cid325)
-
-![Correo confirmación](imgRead/mail.png)
+![image](https://user-images.githubusercontent.com/39386083/49198955-43cecd00-f35b-11e8-93af-6ac81a6a4e87.png)
 
 Después de un proceso de diseño y testeo iterativo elaboramos nuestra segunda propuesta de diseño, donde jerarquizamos y 
 alineamos los componentes para crear un flujo que invite a la compra y comprensión intuitiva de cada uno de los elementos
