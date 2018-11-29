@@ -84,11 +84,11 @@ A partir de este, llevamos a cabo un análisis profundo de las entrevistas que r
 insights que usamos para dar vida a nuestra user persona, Ana Torres, y a nuestros clientes, Francisco 
 y Laura, a quienes les presentamos a continuación:
 
-![User Persona](imgRead/personas/ana.png)
+![image](https://user-images.githubusercontent.com/39386083/49198912-0e29e400-f35b-11e8-9c5f-0b9d7a0b22aa.png)
 
-![Costumer](imgRead/personas/paco.png)
+![image](https://user-images.githubusercontent.com/39386083/49198903-00745e80-f35b-11e8-85a0-751a9eee744f.png)
 
-![Costumer](imgRead/personas/ame.png)
+![image](https://user-images.githubusercontent.com/39386083/49198888-edfa2500-f35a-11e8-97cf-fd29ca4bdb1e.png)
 
 ## Benchmark
 Al conocer a nuestras usuarias, nos concentramos en analizar aquellas tiendas en línea en las que 
