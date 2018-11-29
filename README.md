@@ -10,7 +10,7 @@ Diseño de e-commerce para tienda infantil mexicana especializada en libros, art
 
 # Desarrollo del proyecto
 
- ![Entrada](imgRead/photo/stand.jpg)
+![image](https://user-images.githubusercontent.com/39386083/49199091-c8b9e680-f35b-11e8-8cfd-2a371c3f21a8.png)
 
 *Párate aquí y sueña*
 
