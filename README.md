@@ -2,7 +2,7 @@
 
 Diseño de e-commerce para tienda infantil mexicana especializada en libros, artículos y juguetes artesanales.
 
-
+![image](https://user-images.githubusercontent.com/39386083/49198756-585e9580-f35a-11e8-8d21-e1b61209c5e8.png)
 
 ## Elaborado para
 
