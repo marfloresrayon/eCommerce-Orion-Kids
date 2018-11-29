@@ -1,4 +1,15 @@
 # :rocket: Orion kids
+
+Diseño de e-commerce para tienda infantil mexicana especializada en libros, artículos y juguetes artesanales.
+
+
+
+## Elaborado para
+
+[Orion Kids](https://www.instagram.com/orionkidsmx/?hl=es-la)
+
+# Desarrollo del proyecto
+
  ![Entrada](imgRead/photo/stand.jpg)
 
 *Párate aquí y sueña*
