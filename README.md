@@ -193,10 +193,10 @@ contacto.
 ## Sketches y Wireframes
 
 Después de diseñar el flujo elaboramos nuestra primera propuesta de diseño para la interfaz de la tienda online. 
-![Sketch](imgRead/sketch/home.jpg)
-![Sketch](imgRead/sketch/correo.jpg)
-![Sketch](imgRead/sketch/producto.jpg)
-![Sketch](imgRead/sketch/productos.jpg)
+![home](https://user-images.githubusercontent.com/39386083/49199149-06b70a80-f35c-11e8-8bb6-93eacd00cb16.jpg)
+![correo](https://user-images.githubusercontent.com/39386083/49199188-2ea66e00-f35c-11e8-8bb7-c56986ca91ae.jpg)
+![productos](https://user-images.githubusercontent.com/39386083/49199170-1df5f800-f35c-11e8-88e4-5c053daad0b8.jpg)
+![productos](https://user-images.githubusercontent.com/39386083/49199214-47af1f00-f35c-11e8-97ad-8713e760ab72.jpg)
 
 [Prototipo clickeable con Wireframes](https://marvelapp.com/5gcg66d)
 
