@@ -127,7 +127,7 @@ inesperada.
 Al tener un acercamiento al proceso de compra preferido por nuestras clientas y haber realizado observaciones
 contextuales dentro de la tienda, mapeamos la experiencia de compra de nuestra user persona.
 
-![Costumer Journey](imgRead/cost/journey.png)
+![image](https://user-images.githubusercontent.com/39386083/49199058-a6c06400-f35b-11e8-830d-0b750f96fb59.png)
 
 Nos concentramos en mapear los puntos de contacto que Ana Torres tiene con la marca, así como los **gain points** 
 que trasladaremos a la experiencia de compra online como es la atención personalizada que reciben las usuarias
