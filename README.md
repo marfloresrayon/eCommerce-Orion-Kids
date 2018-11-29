@@ -78,7 +78,7 @@ interés en los que indagaríamos de acuerdo a las respuestas formuladas por las
 A raíz de este primer acercamiento elaboramos un **mapa de empatía** como un primer paso para conocer 
 a nuestras usuarias y la información que acabábamos de obtener. 
 
-![Mapa de empatía](imgRead/emp/emp.jpg)
+![empathy](https://user-images.githubusercontent.com/39386083/49199239-61506680-f35c-11e8-8378-12e6d167ee63.jpg)
 
 A partir de este, llevamos a cabo un análisis profundo de las entrevistas que realizamos, obtuvimos 
 insights que usamos para dar vida a nuestra user persona, Ana Torres, y a nuestros clientes, Francisco 
